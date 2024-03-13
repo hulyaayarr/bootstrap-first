@@ -1,0 +1,53 @@
+body {
+  background-color: #e9ecef;
+}
+.brand {
+  color: #ff0000;
+}
+.nav-element {
+  color: #ffff;
+  margin-left: 20px;
+  opacity: 65%;
+}
+.nav-element:hover {
+  opacity: 100%;
+}
+.active {
+  opacity: 100%;
+}
+.home-big-title {
+  color: #c90101;
+  margin-top: 80px;
+  font-weight: 400;
+  margin-bottom: 10px;
+  font-size: 46px;
+}
+
+.home-small-title {
+  color: #989802;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.list-mark li {
+  list-style-position: inside;
+}
+.li-padding-drum {
+  padding-left: 7px;
+}
+.li-padding-piano {
+  padding-left: 15px;
+}
+.purple-title {
+  color: #4a008b;
+  margin-top: 60px;
+  font-weight: 350;
+  margin-bottom: 20px;
+  font-size: 46px;
+}
+.about-small-title {
+  color: #989802;
+  font-weight: 500;
+}
+.product-name {
+  color: #4a008b;
+}
